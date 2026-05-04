@@ -125,4 +125,12 @@ This repository contains a curated collection of wallpapers that I've gathered f
 [![121.jpg](/thumbnails/121.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/121.jpg)
 [![122.jpg](/thumbnails/122.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/122.jpg)
 [![123.jpg](/thumbnails/123.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/123.jpg)
+[![124.jpg](/thumbnails/124.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/124.jpg)
+[![125.jpg](/thumbnails/125.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/125.jpg)
+[![126.jpg](/thumbnails/126.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/126.jpg)
+[![127.jpg](/thumbnails/127.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/127.jpg)
+[![128.jpg](/thumbnails/128.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/128.jpg)
+[![129.jpg](/thumbnails/129.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/129.jpg)
+[![130.jpg](/thumbnails/130.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/130.jpg)
+[![133.jpg](/thumbnails/133.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/133.jpg)
 
