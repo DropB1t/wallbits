@@ -132,5 +132,9 @@ This repository contains a curated collection of wallpapers that I've gathered f
 [![128.jpg](/thumbnails/128.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/128.jpg)
 [![129.jpg](/thumbnails/129.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/129.jpg)
 [![130.jpg](/thumbnails/130.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/130.jpg)
+[![131.jpg](/thumbnails/131.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/131.jpg)
+[![132.jpg](/thumbnails/132.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/132.jpg)
 [![133.jpg](/thumbnails/133.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/133.jpg)
+[![134.jpg](/thumbnails/134.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/134.jpg)
+[![135.jpg](/thumbnails/135.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/135.jpg)
 
