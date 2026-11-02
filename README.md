@@ -137,4 +137,6 @@ This repository contains a curated collection of wallpapers that I've gathered f
 [![133.jpg](/thumbnails/133.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/133.jpg)
 [![134.jpg](/thumbnails/134.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/134.jpg)
 [![135.jpg](/thumbnails/135.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/135.jpg)
+[![136.jpg](/thumbnails/136.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/136.jpg)
+[![137.jpg](/thumbnails/137.jpg)](https://github.com/DropB1t/wallbits/blob/main/walls/137.jpg)
 
